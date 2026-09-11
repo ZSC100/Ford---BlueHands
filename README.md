@@ -13,17 +13,17 @@ and load the hex file to flash your board.
 Pictures of the CAN FD tap method are included as well as Ford's wiring diagram for the Ford Lightning.  For Makers/EE's it's simply bread board hookup wire, I have rolls of these 10 colors on my electronics workbench spool holder.
 
 Digikey Part #'s:
-White: C2004W-100-ND
-Blue: C2004L-100-ND
-Black: C2004B-100-ND
-Red: C2004R-100-ND
+White: C2004W-100-ND  
+Blue: C2004L-100-ND  
+Black: C2004B-100-ND  
+Red: C2004R-100-ND  
 
 This wire and a few small zip ties is all you need to hook up(tap) the C242B connector to the Copperhill board.
 
 C242B Wire Tap Key:
 
-Pin 7: CAN-FD Low, Blue
+Pin 7: CAN-FD Low, Blue  
 Pin 8: CAN-FD High, White
 
-Pin 9: CCM ECU -12V, Black
+Pin 9: CCM ECU -12V, Black  
 Pin 18: CCM ECU +12V, Red
