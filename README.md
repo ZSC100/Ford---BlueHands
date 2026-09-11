@@ -17,12 +17,13 @@ White: C2004W-100-ND
 Blue: C2004L-100-ND
 Black: C2004B-100-ND
 Red: C2004R-100-ND
-Yellow: C2004Y-100-ND
-Orange: C2004A-100-ND
-Violet: C2004V-100-ND
-Gray: C2004S-100-ND
-Brown: C2004N-100-ND
-Green: C2004G-100-ND
 
 This wire and a few small zip ties is all you need to hook up(tap) the C242B connector to the Copperhill board.
 
+C242B Wire Tap Key:
+
+Pin 7: CAN-FD Low, Blue
+Pin 8: CAN-FD High, White
+
+Pin 9: CCM ECU -12V, Black
+Pin 18: CCM ECU +12V, Red
